@@ -1,0 +1,43 @@
+<weather> 
+	<Oklahoma>
+		<Norman> 
+			<temperature>65</temperature> 
+			<rain>0</rain> 
+			<LakeThunderbird>
+				<Stables>
+					<temperature>63</temperature>
+				</Stables> 
+				<IndianPoint>
+					<temperature>63</temperature>
+					<rain>0</rain>
+				</IndianPoint> 
+			</LakeThunderbird> 
+			<UniversityOfOklahoma>
+				<temperature>66</temperature> 
+			</UniversityOfOklahoma>
+		</Norman> 
+		<Moore>
+			<dewpoint>40</dewpoint>
+		</Moore> 
+		<Enid>
+			<baro>975</baro> 
+			<wind>
+				<speed>5</speed>
+				<direction>0</direction> 
+			</wind>
+			<temperature>60</temperature> 
+		</Enid>
+	</Oklahoma> 
+	<Texas>
+		<Dallas> 
+			<temperature> 70 </temperature> 
+			<wind>
+				<speed>10</speed>
+				<direction>35</direction> 
+			</wind>
+		</Dallas>
+		<ElPaso> 
+			<temperature>78</temperature>
+		</ElPaso>
+	</Texas> 
+</weather>
